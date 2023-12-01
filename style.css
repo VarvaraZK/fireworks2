@@ -1,0 +1,54 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: rgb(170, 245, 255);
+    border-radius: 10px;
+    border: 2px solid blue;
+
+}
+header img{
+    padding: 20px;
+    text-align: center;
+    
+}
+nav { background-color: cornflowerblue;
+text-decoration: none;
+text-align: center;
+padding: 10px;
+}
+nav a{border: 2px solid rgb(95, 30, 155) ;
+border-radius: 10px;
+margin-right: 20px;
+padding: 6px;
+background-color:white ;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    color:blueviolet;
+    border:  2px solid rgb(207, 167, 245)
+    
+    }
+footer{padding: 10px;
+    background-color: rgb(221, 173, 181) ;
+}
+footer p{padding: 10px;
+    background-color: white;
+}
+p {
+     border-radius: 10px;
+    border: 2px solid blue;}
+
+h2{ padding:10px ; 
+font-size: 35px;
+color: blue;
+
+}
+a {
+    border: solid blue;
+    text-decoration:none;
+    padding: 5px;
+}
+
+
